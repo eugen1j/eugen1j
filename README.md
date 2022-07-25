@@ -19,6 +19,6 @@ My tech stack:
 - Celery, Dramatiq.
 - Redis, RabbitMQ, AWS SQS.
 - Docker, Docker Swarm.
-- GitlabCI, Github Actions, Travis CI.
-- AWS: EC2, S3, Networking, ECS.
+- GitlabCI, Github Actions, Travis CI, Ansible.
+- AWS: EC2, S3, Networking, ECS. Terraform.
 
