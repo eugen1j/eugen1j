@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Yevhen Bondar
 
-<!--
-**eugen1j/eugen1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer with deep expertise in backend development. 
 
-Here are some ideas to get you started:
+- 🇺🇦 I live in Kyiv.
+- 👷‍♂️ Founder and Software Engineer of [Daiquiri Team](https://daiquiri.team/)
+- 👨‍💻 Mainly focused on developing of custom web applications with Django + VueJS.
+- 📲 I’m currently learning mobile development with Flutter.
+- 📫 You can to reach via email eugenij.bondar@gmail.com
+- 📝 My blog about tech on medium [medium.com/@eugen1j.bondar](https://medium.com/@eugen1j.bondar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My tech stack:
+
+- Backend: Django + DRF, FastAPI.
+- Frontend: HTML5, CSS, VueJS, NuxtJS.
+- Mobile: Ionic + CapacitorJS, Flutter. 
+- PostgreSQL, SQLite.
+- Celery, Dramatiq.
+- Redis, RabbitMQ, AWS SQS.
+- Docker, Docker Swarm.
+- GitlabCI, Github Actions, Travis CI.
+- AWS: EC2, S3, Networking, ECS.
+
