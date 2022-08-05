@@ -6,7 +6,7 @@ I'm a full-stack software engineer with deep expertise in backend development.
 - 👷‍♂️ Founder and Software Engineer of [Daiquiri Team](https://daiquiri.team/).
 - 👨‍💻 Mainly focused on developing custom web applications with Django + VueJS.
 - 📲 I’m currently learning mobile development with Flutter.
-- 📫 You can reach me via email eugenij.bondar@daiquiri.team.
+- 📫 You can reach me via email eugenij.bondar@gmail.com.
 - 📝 I write a blog about tech on [Medium](https://medium.com/@eugen1j.bondar).
 - 🔗 Here my links: [GitHub](https://github.com/eugen1j), [StackOverflow](https://stackoverflow.com/users/8153147/yevhen-bondar), [LinkedIn](https://www.linkedin.com/in/yevhen-bondar/), [DevTo](https://dev.to/eugen1j).
 
