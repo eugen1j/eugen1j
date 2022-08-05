@@ -23,3 +23,7 @@ My tech stack:
 - GitlabCI, Github Actions, Travis CI, Ansible.
 - AWS: EC2, S3, Networking, ECS. Terraform.
 
+
+---
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/yevhenbondar/contact-me.svg)](https://www.codementor.io/@yevhenbondar?refer=badge)
